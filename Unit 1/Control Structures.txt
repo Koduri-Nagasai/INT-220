@@ -1,0 +1,5 @@
+4 types of control statements are there.
+1. Sequential flow
+2. Decision making -> If, if else, if else if, nested if, switch case
+3. Looping Statements -> for, for each, do, do-while 
+4. Jumping Statements -> break, continue, go to
